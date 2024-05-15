@@ -1,0 +1,20 @@
+.trustedBy {
+  display: flex;
+  justify-content: center;
+  background-color: #fafafa;
+  height: 100px;
+}
+.trustedBy .container {
+  width: 760px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  color: lightgray;
+  font-weight: 500;
+}
+.trustedBy .container img {
+  height: 50px;
+  -o-object-fit: contain;
+     object-fit: contain;
+}/*# sourceMappingURL=TrustedBy.css.map */
