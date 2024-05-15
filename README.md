@@ -1,4 +1,4 @@
-Deployed Link: https://6645304642517a00980cc1f2--extraordinary-frangipane-44da73.netlify.app/gigs?cat=design
+https://fiverr-clone-waqas.netlify.app/
 ![Screenshot 2024-05-15 at 11 31 39 PM (2)](https://github.com/muhammadwaqas0349/Fiverr-Clone/assets/101399207/34d985f3-1f3d-4566-8ba6-c419b54767df)
 ![Screenshot 2024-05-15 at 11 31 50 PM (2)](https://github.com/muhammadwaqas0349/Fiverr-Clone/assets/101399207/d4c6dfba-fd1a-4fb0-9638-58a2334c1903)
 ![Screenshot 2024-05-15 at 11 32 00 PM (2)](https://github.com/muhammadwaqas0349/Fiverr-Clone/assets/101399207/68ed5d4c-1b98-4b6b-8167-643e2a8727ff)
